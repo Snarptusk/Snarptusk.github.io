@@ -27,6 +27,10 @@ a:hover{
     color: rgb(83, 194, 231);
 }
 
+a:visited{
+    color: rgb(132, 208, 233);
+}
+
 img{
     width: 100%;
     border: 2px solid black;
